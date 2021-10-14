@@ -22,7 +22,7 @@ const webpackConfig = {
 };
 ```
 
-##Module API
+## Module API
 
 ```js
 const mdxWithPlaygroundsLoaders = require('mdx-with-playgrounds')({
