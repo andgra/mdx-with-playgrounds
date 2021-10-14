@@ -30,3 +30,5 @@ const mdxWithPlaygroundsLoaders = require('mdx-with-playgrounds')({
   rehypePlugins: []
 });
 ```
+
+For more information, see [MDX docs](https://mdxjs.com/advanced/plugins/)
